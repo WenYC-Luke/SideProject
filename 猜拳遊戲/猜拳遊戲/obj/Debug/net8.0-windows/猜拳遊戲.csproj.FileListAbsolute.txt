@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\bin\Debug\net8.0-windows\猜拳遊戲.exe
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\bin\Debug\net8.0-windows\猜拳遊戲.deps.json
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\bin\Debug\net8.0-windows\猜拳遊戲.runtimeconfig.json
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\bin\Debug\net8.0-windows\猜拳遊戲.dll
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\bin\Debug\net8.0-windows\猜拳遊戲.pdb
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\猜拳遊戲.Form1.resources
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\猜拳遊戲.Properties.Resources.resources
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\猜拳遊戲.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\猜拳遊戲.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\猜拳遊戲.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\猜拳遊戲.AssemblyInfo.cs
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\猜拳遊戲.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\猜拳遊戲.dll
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\refint\猜拳遊戲.dll
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\猜拳遊戲.pdb
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\猜拳遊戲.genruntimeconfig.cache
+C:\Users\User\Desktop\projects\vs_proj\猜拳遊戲\猜拳遊戲\obj\Debug\net8.0-windows\ref\猜拳遊戲.dll
